@@ -164,6 +164,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/exynos7885-common/proprietary/vendor/lib/vendor.samsung.hardware.radio@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.hardware.radio@2.0.so \
     vendor/samsung/exynos7885-common/proprietary/vendor/lib/vendor.samsung.hardware.radio@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.hardware.radio@2.1.so \
     vendor/samsung/exynos7885-common/proprietary/vendor/lib64/egl/libGLES_mali.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libGLES_mali.so \
+    vendor/samsung/exynos7885-common/proprietary/vendor/lib64/hw/android.hardware.gnss@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.gnss@2.0-impl.so \
     vendor/samsung/exynos7885-common/proprietary/vendor/lib64/hw/camera.exynos7885.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/camera.exynos7885.so \
     vendor/samsung/exynos7885-common/proprietary/vendor/lib64/hw/gatekeeper.exynos7885.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gatekeeper.exynos7885.so \
     vendor/samsung/exynos7885-common/proprietary/vendor/lib64/hw/gralloc.exynos7885.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gralloc.exynos7885.so \
